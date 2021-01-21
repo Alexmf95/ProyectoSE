@@ -1,0 +1,1 @@
+[{"id":"9fad1630.ab6be8","type":"split","z":"9f3eae6c.b1f97","name":"TV","splt":"PRINCIPAL","spltType":"str","arraySplt":1,"arraySpltType":"len","stream":false,"addname":"","x":430,"y":80,"wires":[["d9aa7e86.f2cb5"]]}]
